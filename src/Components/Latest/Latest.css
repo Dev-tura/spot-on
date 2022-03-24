@@ -1,0 +1,17 @@
+.l1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.l2 p {
+    font-size: 45px;
+}
+.l2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80%;
+    font-size: 45px;
+    padding-left: 60px;
+}

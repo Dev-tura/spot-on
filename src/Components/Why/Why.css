@@ -1,0 +1,21 @@
+.generell {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spacea {
+    width: 85%;
+}
+.text {
+    margin: 40px;
+    width: 630px;
+}
+.text h1 {
+    font-size: 45px;
+    font-weight: 400;
+}
+.text p {
+    /* width: 50%; */
+    font-size: 18px;
+}

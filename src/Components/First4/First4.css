@@ -1,0 +1,52 @@
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+.pace {
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+}
+.text1 {
+    width: 20%;
+    color: grey;
+}
+.text1 img {
+    margin-bottom: 20px;
+}
+.text1 h3 {
+    font-weight: 500;
+}
+.text2 img {
+    margin-bottom: 20px;
+}
+.text2 {
+    width: 20%;
+    color: grey;
+}
+.text2 h3 {
+    font-weight: 500;
+}
+.text3 {
+    width: 20%;
+    color: grey;
+}
+.text3 img {
+    margin-bottom: 20px;
+}
+.text3 h3 {
+    font-weight: 500;
+}
+.text4 {
+    width: 20%;
+    color: grey;
+}
+.text4 img {
+    margin-bottom: 20px;
+}
+.text4 h3 {
+    font-weight: 500;
+}
