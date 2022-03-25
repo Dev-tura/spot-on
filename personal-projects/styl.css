@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+.firstBG {
+    background-color: skyblue;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.secondBG {
+    background-color: white;
+    height: 100%;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+}
+.profile {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 500px;
+    margin-top: 20px;
+    border: 4px solid black;
+}
+p {
+    width: 250px;
+    text-align: center;
+}
+.Socials {
+    width: 30px;
+    margin: 10px;
+}
+/* img {
+    width: 100px;
+} */
